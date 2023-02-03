@@ -1,0 +1,7 @@
+/node_modules
+chromedriver.exe
+package.json
+package-lock.json
+test.js
+mailEnv.js
+loginEnv.js
